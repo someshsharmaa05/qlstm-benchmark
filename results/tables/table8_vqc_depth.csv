@@ -1,0 +1,5 @@
+n_blocks,CRYPTO mean RMSE,EQUITY_HIGH mean RMSE
+0 (classical),0.0608,0.0510
+1,0.0630,0.0604
+2,0.0946,0.0849
+3,0.1084,0.1049

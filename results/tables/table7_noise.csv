@@ -1,0 +1,5 @@
+Noise level p,CRYPTO mean RMSE,CRYPTO Δ vs noiseless,EQUITY_HIGH mean RMSE,EQUITY_HIGH Δ
+noiseless,0.0946,—,0.0849,—
+p=0.001,0.0949,+0.3%,0.0848,-0.1%
+p=0.005,0.0800,-15.5%,0.0849,+0.0%
+p=0.010,0.0787,-16.8%,0.0876,+3.1%

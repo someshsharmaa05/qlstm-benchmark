@@ -1,0 +1,5 @@
+Asset class,Synthetic generator,Obs.,Annualised σ (computed)
+EQUITY_MID,"GARCH(1,1) {'omega': 2e-06, 'alpha': 0.08, 'beta': 0.9}",500,0.183
+EQUITY_HIGH,"GARCH(1,1) {'omega': 1.5e-05, 'alpha': 0.1, 'beta': 0.85}",500,0.318
+FX,"GARCH(1,1) {'omega': 2e-07, 'alpha': 0.05, 'beta': 0.93}",500,0.056
+CRYPTO,"GARCH(1,1) {'omega': 8e-05, 'alpha': 0.14, 'beta': 0.82}",500,0.844

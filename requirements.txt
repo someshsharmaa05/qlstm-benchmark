@@ -1,0 +1,16 @@
+# Core benchmark (REQUIRED — this is all you need to reproduce every table/figure)
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.7
+
+# Optional: only for the real Yahoo Finance fetcher (src/data_loader.py)
+# yfinance>=1.4
+# curl-cffi>=0.15
+
+# Optional: only for the PennyLane-based QLSTM path (src/qlstm.py, run_experiments.py)
+# The core benchmark uses a self-contained NumPy state-vector simulator and
+# does NOT require torch or pennylane.
+# torch>=2.3
+# pennylane>=0.36
+# pennylane-lightning>=0.36
+# autoray<0.7

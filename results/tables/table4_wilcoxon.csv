@@ -1,0 +1,5 @@
+Asset,vs LSTM,vs BiLSTM,vs PatchTST,vs N-BEATS,vs iTransformer,Outcome
+EQUITY_MID,0.906,0.781,0.688,0.031*,0.094,QLSTM wins 1/5
+EQUITY_HIGH,0.906,0.312,0.688,0.094,0.312,no significant win
+FX,0.906,0.688,0.594,0.062,0.156,no significant win
+CRYPTO,0.781,0.156,0.406,0.094,0.094,no significant win

@@ -1,0 +1,218 @@
+[
+  {
+    "asset": "EQUITY_MID",
+    "model": "LSTM",
+    "fold": 1,
+    "rmse_mean": 0.042204061228856005
+  },
+  {
+    "asset": "EQUITY_MID",
+    "model": "LSTM",
+    "fold": 2,
+    "rmse_mean": 0.032409572850898356
+  },
+  {
+    "asset": "EQUITY_MID",
+    "model": "LSTM",
+    "fold": 3,
+    "rmse_mean": 0.05848168491993614
+  },
+  {
+    "asset": "EQUITY_MID",
+    "model": "PatchTST",
+    "fold": 1,
+    "rmse_mean": 0.08641761174289142
+  },
+  {
+    "asset": "EQUITY_MID",
+    "model": "PatchTST",
+    "fold": 2,
+    "rmse_mean": 0.05377172981098436
+  },
+  {
+    "asset": "EQUITY_MID",
+    "model": "PatchTST",
+    "fold": 3,
+    "rmse_mean": 0.07204478271842925
+  },
+  {
+    "asset": "EQUITY_MID",
+    "model": "QLSTM",
+    "fold": 1,
+    "rmse_mean": 0.10366436587522336
+  },
+  {
+    "asset": "EQUITY_MID",
+    "model": "QLSTM",
+    "fold": 2,
+    "rmse_mean": 0.09366140356910313
+  },
+  {
+    "asset": "EQUITY_MID",
+    "model": "QLSTM",
+    "fold": 3,
+    "rmse_mean": 0.08277859601213049
+  },
+  {
+    "asset": "EQUITY_HIGH",
+    "model": "LSTM",
+    "fold": 1,
+    "rmse_mean": 0.04964043003783398
+  },
+  {
+    "asset": "EQUITY_HIGH",
+    "model": "LSTM",
+    "fold": 2,
+    "rmse_mean": 0.036078681020951915
+  },
+  {
+    "asset": "EQUITY_HIGH",
+    "model": "LSTM",
+    "fold": 3,
+    "rmse_mean": 0.05756177012599154
+  },
+  {
+    "asset": "EQUITY_HIGH",
+    "model": "PatchTST",
+    "fold": 1,
+    "rmse_mean": 0.09056320516245013
+  },
+  {
+    "asset": "EQUITY_HIGH",
+    "model": "PatchTST",
+    "fold": 2,
+    "rmse_mean": 0.057432577075985224
+  },
+  {
+    "asset": "EQUITY_HIGH",
+    "model": "PatchTST",
+    "fold": 3,
+    "rmse_mean": 0.07292251430885326
+  },
+  {
+    "asset": "EQUITY_HIGH",
+    "model": "QLSTM",
+    "fold": 1,
+    "rmse_mean": 0.11055620859445962
+  },
+  {
+    "asset": "EQUITY_HIGH",
+    "model": "QLSTM",
+    "fold": 2,
+    "rmse_mean": 0.09651475010592282
+  },
+  {
+    "asset": "EQUITY_HIGH",
+    "model": "QLSTM",
+    "fold": 3,
+    "rmse_mean": 0.08156196629528344
+  },
+  {
+    "asset": "FX",
+    "model": "LSTM",
+    "fold": 1,
+    "rmse_mean": 0.04058022806894126
+  },
+  {
+    "asset": "FX",
+    "model": "LSTM",
+    "fold": 2,
+    "rmse_mean": 0.03150439787997583
+  },
+  {
+    "asset": "FX",
+    "model": "LSTM",
+    "fold": 3,
+    "rmse_mean": 0.05637095428344873
+  },
+  {
+    "asset": "FX",
+    "model": "PatchTST",
+    "fold": 1,
+    "rmse_mean": 0.08096253417433878
+  },
+  {
+    "asset": "FX",
+    "model": "PatchTST",
+    "fold": 2,
+    "rmse_mean": 0.052810915588433684
+  },
+  {
+    "asset": "FX",
+    "model": "PatchTST",
+    "fold": 3,
+    "rmse_mean": 0.07587528033468177
+  },
+  {
+    "asset": "FX",
+    "model": "QLSTM",
+    "fold": 1,
+    "rmse_mean": 0.10927549422435053
+  },
+  {
+    "asset": "FX",
+    "model": "QLSTM",
+    "fold": 2,
+    "rmse_mean": 0.09568043929244856
+  },
+  {
+    "asset": "FX",
+    "model": "QLSTM",
+    "fold": 3,
+    "rmse_mean": 0.08107185304076141
+  },
+  {
+    "asset": "CRYPTO",
+    "model": "LSTM",
+    "fold": 1,
+    "rmse_mean": 0.06654262682203772
+  },
+  {
+    "asset": "CRYPTO",
+    "model": "LSTM",
+    "fold": 2,
+    "rmse_mean": 0.050242407540634276
+  },
+  {
+    "asset": "CRYPTO",
+    "model": "LSTM",
+    "fold": 3,
+    "rmse_mean": 0.07249990295906233
+  },
+  {
+    "asset": "CRYPTO",
+    "model": "PatchTST",
+    "fold": 1,
+    "rmse_mean": 0.10090759953358064
+  },
+  {
+    "asset": "CRYPTO",
+    "model": "PatchTST",
+    "fold": 2,
+    "rmse_mean": 0.06598627049979548
+  },
+  {
+    "asset": "CRYPTO",
+    "model": "PatchTST",
+    "fold": 3,
+    "rmse_mean": 0.06056116217666483
+  },
+  {
+    "asset": "CRYPTO",
+    "model": "QLSTM",
+    "fold": 1,
+    "rmse_mean": 0.11451433404406434
+  },
+  {
+    "asset": "CRYPTO",
+    "model": "QLSTM",
+    "fold": 2,
+    "rmse_mean": 0.1005802745417036
+  },
+  {
+    "asset": "CRYPTO",
+    "model": "QLSTM",
+    "fold": 3,
+    "rmse_mean": 0.09882363834471908
+  }
+]
